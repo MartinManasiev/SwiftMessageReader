@@ -8,7 +8,7 @@
 # Working with the api
 1. Navigate to: https://localhost:7068/swagger/index.html (Should open automatically after running the solution)
 2. Expand POST dropdown
-3. Click Try it Out > Select the sample swift message file > Execute
+3. Click Try it Out > Select the sample swift message file from the folder > Execute
 4. Check the output in the response body or check database contents
 
 # Libraries used:
